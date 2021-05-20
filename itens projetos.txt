@@ -1,0 +1,13 @@
+Ajuste para entrar dentro do 'IF' do ladrão e exibir mensagem no serial
+Verificar se a outra caixa esta ligada ( se sim desligar somente a valvula)
+Desligar motor se somente a a caixa atual estiver ligada.
+
+Replicar o código para o client 2
+
+Checar os LEDS do master, pois existem posições fora  
+
+Fazer placa para os tres modulos
+
+fazer fluxograma do projeto
+
+fazer documentação
